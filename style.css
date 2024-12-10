@@ -45,7 +45,9 @@ header{
     display: flex;
     justify-content: center;
 }
-   
+.home_logo{
+    text-decoration: none;
+}   
 .navigation-anchortag{
     display: flex;
     text-decoration: none;
